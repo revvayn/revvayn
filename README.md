@@ -11,7 +11,8 @@ Currently interning at **PT Bahana Bhumiphala Persada** in IT.
 
 ---
 
-![Fire Detection IoT](https://raw.githubusercontent.com/username/repo/main/images/fire-detection-demo.gif)
+![Fire Detection IoT](images/luffy.mp4)
+
 
 ---
 
