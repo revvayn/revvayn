@@ -11,7 +11,7 @@ Currently interning at **PT Bahana Bhumiphala Persada** in IT.
 
 ---
 
-![Demo Project](https://i.imgur.com/abcd123.gif)
+[![Demo Project](https://i.imgur.com/abcd123.gif)](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
