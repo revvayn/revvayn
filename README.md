@@ -13,7 +13,7 @@ Currently interning at **PT Bahana Bhumiphala Persada** in IT.
 
 ## 📊 GitHub Stats
 
-![Max Planck's GitHub stats](https://github-readme-stats.vercel.app/api?username=revvayn&show_icons=true&theme=radical)
+![Ahmad Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=revvayn&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revvayn&layout=compact&theme=radical)
 
