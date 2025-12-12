@@ -11,7 +11,7 @@ Currently interning at **PT Bahana Bhumiphala Persada** in IT.
 
 ---
 
-![Fire Detection IoT](images/luffy.mp4)
+![Fire Detection IoT](images/scemer-staring-cat.gif)
 
 
 ---
