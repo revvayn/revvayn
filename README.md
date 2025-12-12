@@ -52,5 +52,5 @@ Currently interning at **PT Bahana Bhumiphala Persada** in IT.
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/USERNAME](https://www.linkedin.com/in/ahmad-rafi-186065335/)  
-- Email: [email@example.com](ahmadrrafi47@gmail.com.com)  
+- LinkedIn: [https://www.linkedin.com/in/ahmad-rafi-186065335/](https://www.linkedin.com/in/ahmad-rafi-186065335/)  
+- Email: [ahmadrrafi47@gmail.com.com](ahmadrrafi47@gmail.com.com)  
