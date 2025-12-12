@@ -11,13 +11,7 @@ Currently interning at **PT Bahana Bhumiphala Persada** in IT.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahmad Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=revvayn&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revvayn&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=revvayn&theme=react-dark&hide_border=true)
+![Demo Project](https://i.imgur.com/abcd123.gif)
 
 ---
 
