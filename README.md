@@ -12,7 +12,7 @@ Currently interning at **PT Bahana Bhumiphala Persada** in the **IT Department**
 
 ---
 
-![Coding Cat](https://s8.ezgif.com/tmp/ezgif-8693882b4264fc28.gif)
+![Coding Cat](images/scemer-staring-cat.gif)
 
 ---
 
