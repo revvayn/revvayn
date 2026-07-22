@@ -3,12 +3,11 @@
 ## 👨‍💻 About Me
 
 I am passionate about **IoT**, **web development**, and building **practical projects** that solve real-world problems.
-Currently interning at **PT Bahana Bhumiphala Persada** in the **IT Department**.
+Currently working at **PT Jayamas Medica Industri Tbk** as an **IT Support Specialist**.
 
 * 🌱 Currently learning **Advanced IoT Systems and Web Development**
 * 💬 Ask me about **IoT, Python, ESP32, React, Tailwind CSS, and Node.js**
 * 📫 How to reach me: **[ahmadrrafi47@gmail.com](mailto:ahmadrrafi47@gmail.com)**
-* ⚡ Fun fact: I love turning ideas into **practical and efficient tech solutions**
 
 ---
 
