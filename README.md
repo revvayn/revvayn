@@ -33,8 +33,6 @@ Currently working at **PT Jayamas Medica Industri Tbk** as an **IT Support Speci
 
 ### 🔹 Projects Coming Soon 🚀
 
-Currently working on several **IoT and web-based projects**, including ESP32 systems and dashboard applications.
-
 Stay tuned for updates!
 
 ---
