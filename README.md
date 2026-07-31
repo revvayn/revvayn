@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am passionate about **IoT**, **web development**, and building **practical projects** that solve real-world problems.
+I am passionate about **web development**, **IoT**, and building **practical projects** that solve real-world problems.
 Currently working at **PT Jayamas Medica Industri Tbk** as an **IT Support Specialist**.
 
 * 🌱 Currently learning **Advanced IoT Systems and Web Development**
